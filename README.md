@@ -1,4 +1,4 @@
 # school-project
-My first school project
+This is the first website that I made as my school project. 
 <br>
 Author - Vansh Rathee
